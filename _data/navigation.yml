@@ -1,4 +1,7 @@
 header:
+  - title:      Publications
+    url:        /publications.html
+    
   - titles:
       # @start locale config
       en      : &EN       Archive
