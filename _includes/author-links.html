@@ -116,5 +116,14 @@
       </li>
     {%- endif -%}
 
+
+    {%- if _author.orcid -%}
+      <li title="{{ _locale_string_follow | replace: '[NAME]', 'npm' }}">
+        <a class="button button--circle npm-button" itemprop="sameAs" href="https://orcid.org/~{{ _author.orcid }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/orcid.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
+
   </ul>
 </div>
