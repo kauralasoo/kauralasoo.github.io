@@ -7,4 +7,6 @@ header:
     url:        /papers.html
   - title:      Software
     url:        /software.html
+  - title:      Data
+    url:        /data.html
 
