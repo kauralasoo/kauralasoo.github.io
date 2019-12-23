@@ -17,4 +17,4 @@ txrevise is a tool to convert Ensembl transcript annotations into distinct sets 
 
 ### [kerimoff/rnaseq](https://github.com/kerimoff/rnaseq)
 
-### [kerimoff/qtlmap](https://github.com/kerimoff/rnaseq)
+### [kerimoff/qtlmap](https://github.com/kerimoff/qtlmap)
