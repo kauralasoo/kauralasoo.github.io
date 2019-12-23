@@ -1,9 +1,8 @@
 ---
 layout: article
+title: Currently teaching
 ---
 
-
-# Currently teaching
  * MTAT.03.239 Bioinformatics (Spring 2020)
  * MTAT.03.242 Bioinformatics Seminar (Spring 2020)
 
