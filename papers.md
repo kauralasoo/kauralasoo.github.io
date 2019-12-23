@@ -13,8 +13,10 @@ Here is a selection of papers that we are most proud of. The complete list of pu
 1. Pedro Madrigal and **Kaur Alasoo**. ["AP-1 takes centre stage in enhancer chromatin dynamics."](https://doi.org/10.1016/j.tcb.2018.04.009) Trends in cell biology 28, no. 7 (2018): 509-511.
 
 ## 2017
-1. William Jones, **Kaur Alasoo**, Dmytro Fishman, and Leopold Parts. ["Computational biology: deep learning."](http://www.emergtoplifesci.org/content/1/3/257) Emerging Topics in Life Sciences 1, no. 3 (2017): 257-274.
+1. William Jones\*, **Kaur Alasoo\***, Dmytro Fishman\*, and Leopold Parts. ["Computational biology: deep learning."](http://www.emergtoplifesci.org/content/1/3/257) Emerging Topics in Life Sciences 1, no. 3 (2017): 257-274.
 1. Helena Kilpinen, Angela Goncalves, Andreas Leha, Vackar Afzal, **Kaur Alasoo**, Sofie Ashford, Sendu Bala et al. ["Common genetic variation drives molecular heterogeneity in human iPSCs."](https://www.nature.com/articles/nature22403) Nature 546, no. 7658 (2017): 370.
 
 ## 2015
 1. **Kaur Alasoo**, Fernando O. Martinez, Christine Hale, Siamon Gordon, Fiona Powrie, Gordon Dougan, Subhankar Mukhopadhyay, and Daniel J. Gaffney. ["Transcriptional profiling of macrophages derived from monocytes and iPS cells identifies a conserved response to LPS and novel alternative transcription."](http://www.nature.com/articles/srep12524) Scientific reports 5 (2015): 12524.
+
+\* Equal contribution.
