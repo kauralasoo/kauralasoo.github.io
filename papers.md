@@ -2,11 +2,10 @@
 layout: article
 ---
 
-Here is a selection of papers that we are most proud of. You can find the full list of publications in [Google Scholar](https://scholar.google.com/citations?user=9u4Kw3sAAAAJ&hl=en).
+Here is a selection of papers that we are most proud of. The complete list of publications can be found in [Google Scholar](https://scholar.google.com/citations?user=9u4Kw3sAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0002-1761-8881).
 
 ## 2019
 1. **Kaur Alasoo**, Julia Rodrigues, John Danesh, Daniel F. Freitag, Dirk S. Paul, and Daniel J. Gaffney. ["Genetic effects on promoter usage are highly context-specific and contribute to complex traits."](https://doi.org/10.7554/eLife.41673.001) Elife 8 (2019): e41673.
-1. 
 
 ## 2018
 1. **Kaur Alasoo**, Julia Rodrigues, Subhankar Mukhopadhyay, Andrew J. Knights, Alice L. Mann, Kousik Kundu, Christine Hale, Gordon Dougan, and Daniel J. Gaffney. ["Shared genetic effects on chromatin and gene expression indicate a role for enhancer priming in immune response."](http://dx.doi.org/10.1038/s41588-018-0046-7) Nature genetics 50, no. 3 (2018): 424.
@@ -15,7 +14,7 @@ Here is a selection of papers that we are most proud of. You can find the full l
 
 ## 2017
 1. William Jones, **Kaur Alasoo**, Dmytro Fishman, and Leopold Parts. ["Computational biology: deep learning."](http://www.emergtoplifesci.org/content/1/3/257) Emerging Topics in Life Sciences 1, no. 3 (2017): 257-274.
-1. Kilpinen, H., Goncalves, A., Leha, A., Afzal, V., **Alasoo, K**., Ashford, S., Bala, S., Bensaddek, D., Casale, F.P., Culley, O.J. and Danecek, P., 2017. [Common genetic variation drives molecular heterogeneity in human iPSCs](https://www.nature.com/articles/nature22403). Nature, 546(7658), pp.370-375.
+1. Helena Kilpinen, Angela Goncalves, Andreas Leha, Vackar Afzal, **Kaur Alasoo**, Sofie Ashford, Sendu Bala et al. ["Common genetic variation drives molecular heterogeneity in human iPSCs."](https://www.nature.com/articles/nature22403) Nature 546, no. 7658 (2017): 370.
 
 ## 2015
-1. **Alasoo, K.**, Martinez, F.O., Hale, C., Gordon, S., Powrie, F., Dougan, G., Mukhopadhyay, S. and Gaffney, D.J., 2015. [Transcriptional profiling of macrophages derived from monocytes and iPS cells identifies a conserved response to LPS and novel alternative transcription.](http://www.nature.com/articles/srep12524) Scientific reports, 5, p.12524.
+1. **Kaur Alasoo**, Fernando O. Martinez, Christine Hale, Siamon Gordon, Fiona Powrie, Gordon Dougan, Subhankar Mukhopadhyay, and Daniel J. Gaffney. ["Transcriptional profiling of macrophages derived from monocytes and iPS cells identifies a conserved response to LPS and novel alternative transcription."](http://www.nature.com/articles/srep12524) Scientific reports 5 (2015): 12524.
