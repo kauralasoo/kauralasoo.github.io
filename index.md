@@ -2,9 +2,13 @@
 layout: article
 ---
 
-PI: Kaur Alasoo
-Research Fellow
-[Institute of Computer Science](https://www.cs.ut.ee/en)
-[University of Tartu] (https://www.ut.ee/en)
+<img style="float: right;" src="https://kauralasoo.github.io/assets/picture.jpeg">
 
-![alt text](https://kauralasoo.github.io/assets/picture.jpeg "Kaur Alasoo")
+PI: Kaur Alasoo
+
+Research Fellow
+
+[Institute of Computer Science](https://www.cs.ut.ee/en)
+
+[University of Tartu](https://www.ut.ee/en)
+
