@@ -4,8 +4,7 @@ title: Links to datasets
 ---
 
 ## From papers
-### Alasoo et al, 2018 
-#### “Shared genetic effects on chromatin and gene expression indicate a role for enhancer priming in immune response.”
+### Alasoo et al, 2018 [(doi)](http://dx.doi.org/10.1038/s41588-018-0046-7)
 * [RNA-seq and ATAC-seq read counts](https://zenodo.org/record/259661)
 * [Differential expression results](https://zenodo.org/record/839011)
 * [Flow cytometry data](https://zenodo.org/record/234214)
