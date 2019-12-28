@@ -4,6 +4,20 @@ title: Links to datasets
 ---
 
 ## From papers
+#### eQTL Catalogue (unpublished)
+* [Reference transcriptome annotations](https://doi.org/10.5281/zenodo.3366280)
+* [Metadata for molecular phenotypes](https://doi.org/10.5281/zenodo.3366011)
+* [Raw microarray data](https://doi.org/10.5281/zenodo.3565554)
+
+#### (Alasoo et al, 2019) [(doi)](https://doi.org/10.7554/eLife.41673.001)
+* [RNA-seq read counts](https://doi.org/10.5281/zenodo.2571453)
+* [QTL lead variants](https://doi.org/10.5281/zenodo.1245778)
+* [Full QTL summary statistics](https://doi.org/10.5281/zenodo.1239670) [(part 2)](https://doi.org/10.5281/zenodo.1245513)
+* [Colocalisation results](https://doi.org/10.5281/zenodo.1245544)
+* [Coordinates of genetic variants](https://doi.org/10.5281/zenodo.1245602)
+* [Differential gene expression results](https://doi.org/10.5281/zenodo.1245133)
+* [Transcriptional events constructed by txrevise](https://doi.org/10.5281/zenodo.3232932)
+
 #### (Alasoo et al, 2018) [(doi)](http://dx.doi.org/10.1038/s41588-018-0046-7)
 * [RNA-seq and ATAC-seq read counts](https://zenodo.org/record/259661)
 * [Differential expression results](https://zenodo.org/record/839011)
@@ -15,4 +29,5 @@ title: Links to datasets
 * [Flow cytometry data](https://doi.org/10.6084/m9.figshare.1119735)
 
 ## Other datasets
-1. **[Yeast gene expression datasets with curated annotations](https://zenodo.org/record/883139)**
+1. [Transcriptional events constructed by txrevise](https://doi.org/10.5281/zenodo.3232932)
+1. [Yeast gene expression datasets with curated annotations](https://zenodo.org/record/883139)
