@@ -13,5 +13,5 @@ title: Currently teaching
 1. Nurlan Kerimov, ["Designing a Robust and Portable Workflow for Detecting Genetic Variants Associated with Molecular Phenotypes Across Multiple Studies"](https://dspace.ut.ee/handle/10062/66408), Institute of Computer Science, University of Tartu, 2019
 
 ### BSc theses
-1. Andreas Vija ["Promootorite kasutust mõjutavate geneetiliste variantide leidmine CAGE tehnoloogia abil"](https://comserv.cs.ut.ee/home/files/Vija_Informaatika_2020.pdf?study=ATILoputoo&reference=896868ECF88B06EECA962F79D31E6BDA6713947F), Institute of Computer Science, University of Tartu, 2020
+1. Andreas Vija, ["Promootorite kasutust mõjutavate geneetiliste variantide leidmine CAGE tehnoloogia abil"](https://comserv.cs.ut.ee/home/files/Vija_Informaatika_2020.pdf?study=ATILoputoo&reference=896868ECF88B06EECA962F79D31E6BDA6713947F), Institute of Computer Science, University of Tartu, 2020
 1. Evelin Aasna, ["Samaaegselt kromatiini avatust ja splaissimist mõjutavate geneetiliste variantide leidmine"](https://dspace.ut.ee/handle/10062/66518), Institute of Molecular and Cellular Biology, University of Tartu, 2019
