@@ -3,12 +3,13 @@ layout: article
 title: Currently teaching
 ---
 
- * MTAT.03.239 Bioinformatics (Spring 2020)
- * MTAT.03.242 Bioinformatics Seminar (Spring 2020)
+ * MTAT.03.239 Bioinformatics [(Spring 2020)](https://courses.cs.ut.ee/2020/bioinfo/spring)
+ * MTAT.03.242 Bioinformatics Seminar (Spring 2020) [(Fall 2020)](https://courses.cs.ut.ee/2020/bioseminar/fall)
 
 ## Supervised theses
 
 ### MSc theses
+1. Kateryna Peikova, ["Genetic Effects on Gene Expression Across Cell Types, Tissues and Biological Contexts"](https://comserv.cs.ut.ee/home/files/Peikova_ComputerScience_2020.pdf?study=ATILoputoo&reference=2B0079C2091C9C59A1AD05A1B713F8AEC0F38804), Institute of Computer Science, University of Tartu, 2020
 1. Nurlan Kerimov, ["Designing a Robust and Portable Workflow for Detecting Genetic Variants Associated with Molecular Phenotypes Across Multiple Studies"](https://dspace.ut.ee/handle/10062/66408), Institute of Computer Science, University of Tartu, 2019
 
 ### BSc theses
