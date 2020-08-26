@@ -9,6 +9,9 @@ Previously, he completed his PhD in 2017 in the group of [Daniel Gaffney](https:
 
 Nurlan is a PhD student at the [Institute of Computer Science](https://www.cs.ut.ee/en). He focusses on developing robust and portable [RNA-seq quantificiation](https://github.com/kerimoff/rnaseq) and [eQTL analysis](https://github.com/kerimoff/qtlmap) workflows for the [eQTL Catalogue](https://www.ebi.ac.uk/eqtl/) project. 
 
+### Kateryna Peikova
+Kateryna is a MSc student at the [Institute of Computer Science](https://www.cs.ut.ee/en). Her [thesis](https://comserv.cs.ut.ee/ati_thesis/datasheet.php?id=70517&year=2020) focuses characterizing the patterens of eQTL sharing among the tissues and cell types present in the eQTL Catalogue. 
+
 
 ## Alumni
 ### Evelin Aasna (2018-2019)
