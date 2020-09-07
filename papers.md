@@ -5,7 +5,7 @@ layout: article
 Here is a selection of papers that we are most proud of. The complete list of publications can be found in [Google Scholar](https://scholar.google.com/citations?user=9u4Kw3sAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0002-1761-8881).
 
 ## 2020
-1. Liis Kolberg, Nurlan Kerimov, Hedi Peterson, Kaur Alasoo ["Co-expression analysis reveals interpretable gene modules controlled by trans-acting genetic variants"](https://www.biorxiv.org/content/10.1101/2020.04.22.055335v1) BioRxiv (2020).
+1. Liis Kolberg, Nurlan Kerimov, Hedi Peterson, Kaur Alasoo ["Co-expression analysis reveals interpretable gene modules controlled by trans-acting genetic variants"](https://doi.org/10.7554/eLife.58705) Elife (2020): e58705.
 1. **Nurlan Kerimov\***, James D. Hayhurst\*, Jonathan R. Manning, Peter Walter, **Liis Kolberg**, **Kateryna Peikova**, **Marija Samoviča**, Tony Burdett, Simon Jupp, Helen Parkinson, Irene Papatheodorou, Daniel R. Zerbino\*, **Kaur Alasoo\*** ["eQTL Catalogue: a compendium of uniformly processed human gene expression and splicing QTLs."](https://doi.org/10.1101/2020.01.29.924266) BioRxiv (2020).
 
 ## 2019
