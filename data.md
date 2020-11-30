@@ -4,7 +4,12 @@ title: Links to datasets
 ---
 
 ## From papers
-#### eQTL Catalogue (unpublished)
+
+#### (Kolberg et al, 2020) [(doi)](https://doi.org/10.7554/eLife.58705)
+* [Co-expression trans-eQTL analysis data](https://doi.org/10.5281/zenodo.3759693)
+
+#### eQTL Catalogue [(doi)](https://doi.org/10.1101/2020.01.29.924266)
+* [Summary statistics and fine mapping credible sets](https://www.ebi.ac.uk/eqtl/Data_access/)
 * [Reference transcriptome annotations](https://doi.org/10.5281/zenodo.3366280)
 * [Metadata for molecular phenotypes](https://doi.org/10.5281/zenodo.3366011)
 * [Raw microarray data](https://doi.org/10.5281/zenodo.3565554)
