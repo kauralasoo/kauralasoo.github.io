@@ -2,6 +2,8 @@
 layout: article
 ---
 
+Software and data analysis workflows.
+
 ## Analysis workflows
 
 We are developing and maintaining a number of modular data analysis workflows for the [eQTL Catalogue](https://www.ebi.ac.uk/eqtl/) project.
