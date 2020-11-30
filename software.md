@@ -10,7 +10,7 @@ We are developing and maintaining a number of modular data analysis workflows fo
 * [eQTL-Catalogue/rnaseq](https://github.com/eQTL-Catalogue/rnaseq) - RNA-seq quantification
 * [eQTL-Catalogue/qcnorm](https://github.com/eQTL-Catalogue/qcnorm) - RNA-seq normalisation and quality control
 * [eQTL-Catalogue/qtlmap](https://github.com/eQTL-Catalogue/qtlmap) - eQTL analysis
-* [eQTL-Catalogue/susie-workflow](https://github.com/eQTL-Catalogue/susie-workflow - statistical fine mapping
+* [eQTL-Catalogue/susie-workflow](https://github.com/eQTL-Catalogue/susie-workflow) - statistical fine mapping
 
 Click [here](https://github.com/eQTL-Catalogue/eQTL-Catalogue-resources/blob/master/tutorials/workflow_execution.md) to learn how these workflows are used to process data for the eQTL Catalogue.
 
