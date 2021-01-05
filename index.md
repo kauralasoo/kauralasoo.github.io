@@ -15,5 +15,6 @@ A major challenge in complex disease reaserch is identifying causal cellular and
 
 ### Open positions
 
-* [Research Fellow of Statistical Genetics/Bioinformatics](https://jobrxiv.org/job/institute-of-computer-science-university-of-tartu-27778-research-fellow-of-statistical-genetics-bioinformatics/)
+* [Research Fellow of Statistical Genetics/Bioinformatics](https://www.ut.ee/en/welcome/job-offer/research-fellow-statistical-genetics-and-bioinformatics-0)
+* [Research Fellow of Bioinformatics](https://www.ut.ee/en/welcome/job-offer/research-fellow-bioinformatics-3)
 
