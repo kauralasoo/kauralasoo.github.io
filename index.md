@@ -17,4 +17,4 @@ A major challenge in complex disease reaserch is identifying causal cellular and
 
 * [Research Fellow of Statistical Genetics/Bioinformatics](https://www.ut.ee/en/welcome/job-offer/research-fellow-statistical-genetics-and-bioinformatics-0)
 * [Research Fellow of Bioinformatics](https://www.ut.ee/en/welcome/job-offer/research-fellow-bioinformatics-3)
-
+* [PhD position in Statistical Genetics/Bioinformatics](https://www.ut.ee/en/phd-computer-science)
