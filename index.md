@@ -11,3 +11,8 @@ A major challenge in complex disease reaserch is identifying causal cellular and
 
 * In the [eQTL Catalogue](https://www.ebi.ac.uk/eqtl/) project, we are collaborating with [Helen Parkinson's](https://www.ebi.ac.uk/about/people/helen-parkinson) group at the Euopean Bioinformatics Insititue (EMBL-EBI) to develop the largest catalogue of human genetic variants associated with gene expression, splicing and other transcriptional phenotypes. We have re-analyised all studies included in the catalogue with uniform data analysis [workflows](https://kauralasoo.github.io/software.html).
 * In the [CINECA](https://www.cineca-project.eu/) project, we are developing federated data analysis workflows that would enable us to perform automated large-scale eQTL meta-analysis without sharing individual-level genotype data between cohorts.
+
+### In media
+* [Building the eQTL Catalogue: a Q&A with Kaur Alasoo](https://blog.opentargets.org/building-the-eqtl-catalogue-kaur-alasoo/)
+* [Eesti teadlased lõid geeniuurijatele üliolulise ja maailmas ainulaadse otsingumootori](https://ekspress.delfi.ee/artikkel/94397323/eesti-teadlased-loid-geeniuurijatele-uliolulise-ja-maailmas-ainulaadse-otsingumootori)
+* [Eestlase uuring "geenitulekahjudest" avaldati mainekas teadusajakirjas](https://novaator.err.ee/677917/eestlase-uuring-geenitulekahjudest-avaldati-mainekas-teadusajakirjas)
