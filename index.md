@@ -13,6 +13,7 @@ A major challenge in complex disease reaserch is identifying causal cellular and
 * In the [CINECA](https://www.cineca-project.eu/) project, we are developing federated data analysis workflows that would enable us to perform automated large-scale eQTL meta-analysis without sharing individual-level genotype data between cohorts.
 
 ### In media
+* [Miks uute ravimite arendamine võtab niivõrd kaua aega?](https://tervis.ohtuleht.ee/1062482/iga-haigust-ei-saa-veel-ravida-miks-uute-ravimite-arendamine-votab-niivord-kaua-aega) [(koopia)](https://blog.cs.ut.ee/2022/05/25/miks-uute-ravimite-arendamine-votab-niivord-kaua-aega/)
 * [Landmark genetics studies serve up new resources for gene expression research](https://researchinestonia.eu/2022/01/31/landmark-genetics-studies-serve-up-new-resources-for-gene-expression-research/#)
 * [Reshaping genetics: Estonian and British research team debuts new data resource](https://e-estonia.com/reshaping-genetics-estonian-and-british-research-team-debuts-new-data-resource/)
 * [Building the eQTL Catalogue: a Q&A with Kaur Alasoo](https://blog.opentargets.org/building-the-eqtl-catalogue-kaur-alasoo/)
