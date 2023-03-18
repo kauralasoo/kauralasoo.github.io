@@ -4,6 +4,16 @@ layout: article
 
 Here is a selection of papers that we are most proud of. The complete list of publications can be found in [Google Scholar](https://scholar.google.com/citations?user=9u4Kw3sAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0002-1761-8881).
 
+## 2023
+1. François Aguet, **Kaur Alasoo**, Yang I. Li, Alexis Battle, Hae Kyung Im, Stephen B. Montgomery, and Tuuli Lappalainen. "[Molecular quantitative trait loci.](https://doi.org/10.1038/s43586-022-00188-6)" Nature Reviews Methods Primers 3, no. 1 (2023): 4.
+
+1. **Kaur Alasoo**. "[Clinical traits impacting human tissue transcriptomes.](https://doi.org/10.1016/j.xgen.2022.100245)" Cell Genomics 3, no. 1 (2023): 100245.
+
+## 2022
+1. Kaur Alasoo. "[Genetic variants that edit risk of autoimmune diseases.](https://doi.org/10.1038/d41586-022-01641-y)" (2022): 479-480.
+
+1. Andreas Vija and Kaur Alasoo. "[Improved detection of genetic effects on promoter usage with augmented transcript annotations.](https://doi.org/10.1101/2022.07.12.499800)" bioRxiv (2022): 2022-07.
+
 ## 2021
 1. **Nurlan Kerimov\***, James D. Hayhurst\*, **Kateryna Peikova**, Jonathan R. Manning, Peter Walter, **Liis Kolberg**, **Marija Samoviča**, Manoj Pandian Sakthivel, Ivan Kuzmin, Stephen J. Trevanion, Tony Burdett, Simon Jupp, Helen Parkinson, Irene Papatheodorou, Andrew D. Yates, Daniel R. Zerbino\*, **Kaur Alasoo\*** “[A compendium of uniformly processed human gene expression and splicing quantitative trait loci.](https://doi.org/10.1038/s41588-021-00924-w)” Nat Genet 53, 1290–1299 (2021).
 
