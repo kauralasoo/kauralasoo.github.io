@@ -9,6 +9,8 @@ title: Currently teaching
 ## Supervised theses
 
 ### MSc theses
+1. Peep Kolberg, [Ekspressiooni kvantitatiivsete tunnuste lookuste analüüs üksikraku RNA sekveneerimisandmetes](https://comserv.cs.ut.ee/ati_thesis/datasheet.php?id=77601), Institute of Computer Science, University of Tartu, 2023
+1. Kristiina Kuningas, [Estimating Concordance Between Measured and Predicted Genetic Variant Effects on Chromatin Accessibility](https://comserv.cs.ut.ee/ati_thesis/datasheet.php?id=77613&language=en),Institute of Computer Science, University of Tartu, 2023 
 1. Kateryna Peikova, ["Genetic Effects on Gene Expression Across Cell Types, Tissues and Biological Contexts"](https://comserv.cs.ut.ee/home/files/Peikova_ComputerScience_2020.pdf?study=ATILoputoo&reference=2B0079C2091C9C59A1AD05A1B713F8AEC0F38804), Institute of Computer Science, University of Tartu, 2020
 1. Nurlan Kerimov, ["Designing a Robust and Portable Workflow for Detecting Genetic Variants Associated with Molecular Phenotypes Across Multiple Studies"](https://dspace.ut.ee/handle/10062/66408), Institute of Computer Science, University of Tartu, 2019
 
