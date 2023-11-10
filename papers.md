@@ -9,6 +9,12 @@ Here is a selection of papers that we are most proud of. The complete list of pu
 
 1. **Kaur Alasoo**. "[Clinical traits impacting human tissue transcriptomes.](https://doi.org/10.1016/j.xgen.2022.100245)" Cell Genomics 3, no. 1 (2023): 100245.
 
+1. **Nurlan Kerimov**, **Ralf Tambets**, James D. Hayhurst, **Ida Rahu**, **Peep Kolberg**, Uku Raudvere, Ivan Kuzmin, Anshika Chowdhary, **Andreas Vija**, **Hans J. Teras**, Masahiro Kanai, Jacob Ulirsch, Mina Ryten, John Hardy, Sebastian Guelfi, Daniah Trabzuni, Sarah Kim-Hellmuth, William Rayner, Hilary Finucane, Hedi Peterson, Abayomi Mosaku, Helen Parkinson, **Kaur Alasoo** "[eQTL Catalogue 2023: New datasets, X chromosome QTLs, and improved detection and visualisation of transcript-level QTLs.](https://doi.org/10.1371/journal.pgen.1010932)" PLoS Genetics 19, no. 9 (2023): e1010932.
+
+1. **Ralf Tambets**, **Anastassia Kolde**, **Peep Kolberg**, Michael I. Love, and **Kaur Alasoo**. "[Extensive co-regulation of neighbouring genes complicates the use of eQTLs in target gene prioritisation.](https://doi.org/10.1101/2023.09.29.560109)" bioRxiv (2023): 2023-09.
+
+
+
 ## 2022
 1. **Kaur Alasoo**. "[Genetic variants that edit risk of autoimmune diseases.](https://doi.org/10.1038/d41586-022-01641-y)" Nature News and Views (2022): 479-480.
 
