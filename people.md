@@ -7,6 +7,7 @@ Krista is a post-doctoral fellow at the [Institute of Computer Science](https://
 
 ### Nurlan Kerimov
 Nurlan is a PhD student at the [Institute of Computer Science](https://www.cs.ut.ee/en). He focusses on developing robust and portable workflows for the [eQTL Catalogue](https://www.ebi.ac.uk/eqtl/) project. 
+[[Google Scholar]](https://scholar.google.com/citations?user=PYwQcC8AAAAJ)
 
 ### Ralf Tambets
 Ralf is a PhD student at the [Institute of Computer Science](https://www.cs.ut.ee/en). His current work focusses on detecting shared genetic signals across multiple traits using fine-mapping, colocalisation and Mendelian randomisation.
