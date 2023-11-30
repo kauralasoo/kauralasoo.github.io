@@ -7,10 +7,11 @@ layout: article
 Kaur Alasoo is a Lecturer of Bioinformatics at the [Institute of Computer Science](https://www.cs.ut.ee/en), [University of Tartu](https://www.ut.ee/en). 
 
 ### Our research
-A major challenge in complex disease reaserch is identifying causal cellular and molecular process that contribute to the development of the disease. In our lab, we are developing novel computational methods and data analysis workflows that allow us to better quantify these molecular processes from large-scale genetic datasets. We are also applying these methods to a large collections of published datasets.
+Our main research interest is developing better analytical approaches and harmonised datasets for GWAS interpretation and target prioritisation. Instead of focusing on a specific disease, we are interested in developing generalisable approaches that many labs both in academia and industry can use to help interpret their traits and diseases of interest. 
 
-* In the [eQTL Catalogue](https://www.ebi.ac.uk/eqtl/) project, we are collaborating with [Helen Parkinson's](https://www.ebi.ac.uk/about/people/helen-parkinson) group at the Euopean Bioinformatics Insititue (EMBL-EBI) to develop the largest catalogue of human genetic variants associated with gene expression, splicing and other transcriptional phenotypes. We have re-analyised all studies included in the catalogue with uniform data analysis [workflows](https://kauralasoo.github.io/software.html).
-* In the [CINECA](https://www.cineca-project.eu/) project, we are developing federated data analysis workflows that would enable us to perform automated large-scale eQTL meta-analysis without sharing individual-level genotype data between cohorts.
+* In the [eQTL Catalogue](https://www.ebi.ac.uk/eqtl/) project, we are collaborating with [Helen Parkinson's](https://www.ebi.ac.uk/about/people/helen-parkinson) group at the European Bioinformatics Institute (EMBL-EBI) to develop the largest catalogue of human genetic variants associated with gene expression, splicing and other transcriptional phenotypes. Thus far, we have re-analysed data from 31 studies and 127 datasets with our uniform analysis [workflows](https://kauralasoo.github.io/software.html).
+
+Our primary motivation is to envision novel applications and use cases that become feasible when harmonised data from hundreds of datasets and various data modalities can be integrated into one seamless analysis. The genetic variants shared across multiple populations provide the necessary _coordinate system_ to enable that.
 
 ### In media
 * [Miks uute ravimite arendamine võtab niivõrd kaua aega?](https://tervis.ohtuleht.ee/1062482/iga-haigust-ei-saa-veel-ravida-miks-uute-ravimite-arendamine-votab-niivord-kaua-aega) [(koopia)](https://blog.cs.ut.ee/2022/05/25/miks-uute-ravimite-arendamine-votab-niivord-kaua-aega/)
