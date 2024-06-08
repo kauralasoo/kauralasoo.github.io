@@ -4,7 +4,7 @@ layout: article
 
 <img style="float: right;" src="https://kauralasoo.github.io/assets/picture.jpeg">
 
-Kaur Alasoo is a Lecturer of Bioinformatics at the [Institute of Computer Science](https://www.cs.ut.ee/en), [University of Tartu](https://www.ut.ee/en). 
+Kaur Alasoo is an Associate Professor of Bioinformatics at the [Institute of Computer Science](https://www.cs.ut.ee/en), [University of Tartu](https://www.ut.ee/en). 
 
 ### Our research
 Our main research interest is developing better analytical approaches and harmonised datasets for GWAS interpretation and target prioritisation. Instead of focusing on a specific disease, we are interested in developing generalisable approaches that many labs both in academia and industry can use to help interpret their traits and diseases of interest. 
