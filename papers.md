@@ -4,6 +4,9 @@ layout: article
 
 Here is a selection of papers that we are most proud of. The complete list of publications can be found in [Google Scholar](https://scholar.google.com/citations?user=9u4Kw3sAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0002-1761-8881).
 
+## 2024
+1. **Krista Freimann**, Anneke Brümmer, Robert Warmerdam, Tarran S. Rupall, Ana Laura Hernández-Ledesma, Joshua Chiou, Emily R. Holzinger, Joseph C. Maranville, Nikolina Nakic, Halit Ongen, Luca Stefanucci, Michael C. Turchin, eQTLGen Consortium, Lude Franke, Urmo Võsa, Carla P Jones, Alejandra Medina-Rivera, Gosia Trynka, Kai Kisand, Sven Bergmann, **Kaur Alasoo**. "[USP18 modulates lupus risk via negative regulation of interferon response.](https://doi.org/10.1101/2024.07.15.24310442)" medRxiv (2024): 2024-07.
+
 ## 2023
 1. François Aguet, **Kaur Alasoo**, Yang I. Li, Alexis Battle, Hae Kyung Im, Stephen B. Montgomery, and Tuuli Lappalainen. "[Molecular quantitative trait loci.](https://doi.org/10.1038/s43586-022-00188-6)" Nature Reviews Methods Primers 3, no. 1 (2023): 4.
 
