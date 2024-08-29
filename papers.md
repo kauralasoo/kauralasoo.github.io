@@ -7,15 +7,14 @@ Here is a selection of papers that we are most proud of. The complete list of pu
 ## 2024
 1. **Krista Freimann**, Anneke Brümmer, Robert Warmerdam, Tarran S. Rupall, Ana Laura Hernández-Ledesma, Joshua Chiou, Emily R. Holzinger, Joseph C. Maranville, Nikolina Nakic, Halit Ongen, Luca Stefanucci, Michael C. Turchin, eQTLGen Consortium, Lude Franke, Urmo Võsa, Carla P Jones, Alejandra Medina-Rivera, Gosia Trynka, Kai Kisand, Sven Bergmann, **Kaur Alasoo**. "[USP18 modulates lupus risk via negative regulation of interferon response.](https://doi.org/10.1101/2024.07.15.24310442)" medRxiv (2024): 2024-07.
 
+1. **Ralf Tambets**, **Anastassia Kolde**, **Peep Kolberg**, Michael I. Love, and **Kaur Alasoo**. "[Extensive co-regulation of neighbouring genes complicates the use of eQTLs in target gene prioritisation.](https://doi.org/10.1016/j.xhgg.2024.100348)" HGG Advances (2024): 100348.
+
 ## 2023
 1. François Aguet, **Kaur Alasoo**, Yang I. Li, Alexis Battle, Hae Kyung Im, Stephen B. Montgomery, and Tuuli Lappalainen. "[Molecular quantitative trait loci.](https://doi.org/10.1038/s43586-022-00188-6)" Nature Reviews Methods Primers 3, no. 1 (2023): 4.
 
 1. **Kaur Alasoo**. "[Clinical traits impacting human tissue transcriptomes.](https://doi.org/10.1016/j.xgen.2022.100245)" Cell Genomics 3, no. 1 (2023): 100245.
 
 1. **Nurlan Kerimov**, **Ralf Tambets**, James D. Hayhurst, **Ida Rahu**, **Peep Kolberg**, Uku Raudvere, Ivan Kuzmin, Anshika Chowdhary, **Andreas Vija**, **Hans J. Teras**, Masahiro Kanai, Jacob Ulirsch, Mina Ryten, John Hardy, Sebastian Guelfi, Daniah Trabzuni, Sarah Kim-Hellmuth, William Rayner, Hilary Finucane, Hedi Peterson, Abayomi Mosaku, Helen Parkinson, **Kaur Alasoo** "[eQTL Catalogue 2023: New datasets, X chromosome QTLs, and improved detection and visualisation of transcript-level QTLs.](https://doi.org/10.1371/journal.pgen.1010932)" PLoS Genetics 19, no. 9 (2023): e1010932.
-
-1. **Ralf Tambets**, **Anastassia Kolde**, **Peep Kolberg**, Michael I. Love, and **Kaur Alasoo**. "[Extensive co-regulation of neighbouring genes complicates the use of eQTLs in target gene prioritisation.](https://doi.org/10.1101/2023.09.29.560109)" bioRxiv (2023): 2023-09.
-
 
 
 ## 2022
