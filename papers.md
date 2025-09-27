@@ -4,8 +4,13 @@ layout: article
 
 Here is a selection of papers that we are most proud of. The complete list of publications can be found in [Google Scholar](https://scholar.google.com/citations?user=9u4Kw3sAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0002-1761-8881).
 
+## 2025
+1. **Ida Rahu**, **Ralf Tambets**, Eric B. Fauman, and **Kaur Alasoo**. "[Mendelian randomisation with proxy exposures: challenges and opportunities.](https://doi.org/10.1093/genetics/iyaf210)" GENETICS (2025): 2024-10.
+
+2. **Mihkel Jesse**, Ago-Erik Riet, and **Kaur Alasoo**. "[Ultra-fast genetic colocalisation across millions of traits.](https://doi.org/10.1101/2025.08.25.672103)" bioRxiv (2025): 2025-08.
+
+
 ## 2024
-1. **Ida Rahu**, **Ralf Tambets**, Eric B. Fauman, and **Kaur Alasoo**. "[Mendelian randomisation with proxy exposures: challenges and opportunities.](https://doi.org/10.1101/2024.10.21.24315891)" medRxiv (2024): 2024-10.
 
 1. **Ralf Tambets**, Jaanika Kronberg, Erik Abner, Urmo Võsa, **Ida Rahu**, Nele Taba, **Anastassia Kolde**, Estonian Biobank Research Team, Krista Fischer, Tõnu Esko, **Kaur Alasoo\***, Priit Palta*. "[Genome-wide association study for circulating metabolites in 619,372 individuals.](https://doi.org/10.1101/2024.10.15.24315557)" medRxiv (2024): 2024-10.
 
