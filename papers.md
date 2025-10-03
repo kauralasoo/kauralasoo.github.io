@@ -5,16 +5,15 @@ layout: article
 Here is a selection of papers that we are most proud of. The complete list of publications can be found in [Google Scholar](https://scholar.google.com/citations?user=9u4Kw3sAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0002-1761-8881).
 
 ## 2025
+1. **Krista Freimann**, Anneke Brümmer, Robert Warmerdam, Tarran S. Rupall, Ana Laura Hernández-Ledesma, Joshua Chiou, Emily R. Holzinger, Joseph C. Maranville, Nikolina Nakic, Halit Ongen, Luca Stefanucci, Michael C. Turchin, eQTLGen Consortium, Lude Franke, Urmo Võsa, Carla P Jones, Alejandra Medina-Rivera, Gosia Trynka, Kai Kisand, Sven Bergmann, **Kaur Alasoo**. "[Trans-eQTL mapping prioritises USP18 as a negative regulator of interferon response at a lupus risk locus."](https://doi.org/10.1038/s41467-025-63856-7)" Nature Communications (2025).
+
 1. **Ida Rahu**, **Ralf Tambets**, Eric B. Fauman, and **Kaur Alasoo**. "[Mendelian randomisation with proxy exposures: challenges and opportunities.](https://doi.org/10.1093/genetics/iyaf210)" GENETICS (2025): 2024-10.
 
-2. **Mihkel Jesse**, Ago-Erik Riet, and **Kaur Alasoo**. "[Ultra-fast genetic colocalisation across millions of traits.](https://doi.org/10.1101/2025.08.25.672103)" bioRxiv (2025): 2025-08.
-
+1. **Mihkel Jesse**, Ago-Erik Riet, and **Kaur Alasoo**. "[Ultra-fast genetic colocalisation across millions of traits.](https://doi.org/10.1101/2025.08.25.672103)" bioRxiv (2025): 2025-08.
 
 ## 2024
 
 1. **Ralf Tambets**, Jaanika Kronberg, Erik Abner, Urmo Võsa, **Ida Rahu**, Nele Taba, **Anastassia Kolde**, Estonian Biobank Research Team, Krista Fischer, Tõnu Esko, **Kaur Alasoo\***, Priit Palta*. "[Genome-wide association study for circulating metabolites in 619,372 individuals.](https://doi.org/10.1101/2024.10.15.24315557)" medRxiv (2024): 2024-10.
-
-1. **Krista Freimann**, Anneke Brümmer, Robert Warmerdam, Tarran S. Rupall, Ana Laura Hernández-Ledesma, Joshua Chiou, Emily R. Holzinger, Joseph C. Maranville, Nikolina Nakic, Halit Ongen, Luca Stefanucci, Michael C. Turchin, eQTLGen Consortium, Lude Franke, Urmo Võsa, Carla P Jones, Alejandra Medina-Rivera, Gosia Trynka, Kai Kisand, Sven Bergmann, **Kaur Alasoo**. "[Trans-eQTL mapping prioritises USP18 as a negative regulator of interferon response at a lupus risk locus."](https://doi.org/10.1101/2024.07.15.24310442)" medRxiv (2024): 2024-07.
 
 1. **Ralf Tambets**, **Anastassia Kolde**, **Peep Kolberg**, Michael I. Love, and **Kaur Alasoo**. "[Extensive co-regulation of neighbouring genes complicates the use of eQTLs in target gene prioritisation.](https://doi.org/10.1016/j.xhgg.2024.100348)" HGG Advances (2024): 100348.
 
