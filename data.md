@@ -5,6 +5,15 @@ title: Links to datasets
 
 ## From papers
 
+#### EstBB-UKBB metabolic trait meta-analysis (Tambets et al, 2026) [(doi)](https://doi.org/10.1038/s41586-026-10532-5)
+* [PheWeb](https://nmrmeta.gi.ut.ee/)
+* [Colocalisation browser](https://elixir.ut.ee/eqtl/nmr-coloc)
+* [Fine mapping results](https://doi.org/10.5281/zenodo.18132538)
+* [GWAS lead variants](https://zenodo.org/records/18377015)
+* [Colocalisation results](https://zenodo.org/records/17945143)
+* [Project GitHub repostiory](https://github.com/ralf-tambets/EstBB-UKBB-metaanalysis)
+* [Full GWAS summary statistics](https://github.com/ralf-tambets/EstBB-UKBB-metaanalysis/blob/main/data/sumstats_paths.tsv)
+
 #### (Rahu et al, 2025) [(doi)](https://doi.org/10.1093/genetics/iyaf210)
 * [Summary statistics](https://doi.org/10.5281/zenodo.13821209)
 * [SuSiE fine mapping results](https://doi.org/10.5281/zenodo.13821038)
@@ -15,10 +24,6 @@ title: Links to datasets
 
 #### gpu-coloc (Jesse et al, 2025) [(doi)](https://doi.org/10.1101/2025.08.25.672103)
 * [Pre-formatted eQTL Catalogue LBFs](https://tartuulikool-my.sharepoint.com/:f:/r/personal/a72094_ut_ee/Documents/eQTL_Catlogue_gpu-coloc?csf=1&web=1&e=U6OhP4)
-
-#### EstBB-UKBB meta-analysis (Tambets et al, 2024) [(doi)]()
-* [Project repostiory](https://github.com/ralf-tambets/EstBB-UKBB-metaanalysis)
-* [Summary statistics](https://github.com/ralf-tambets/EstBB-UKBB-metaanalysis/blob/main/data/sumstats_paths.tsv)
 
 #### (Kolberg et al, 2020) [(doi)](https://doi.org/10.7554/eLife.58705)
 * [Co-expression trans-eQTL analysis data](https://doi.org/10.5281/zenodo.3759693)
