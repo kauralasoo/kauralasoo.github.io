@@ -9,6 +9,7 @@ title: Currently teaching
 ## Supervised theses
 
 ### MSc theses
+1. Andero Raava, [Using Genomic Foundation Models to Interpret Functional Effects of Cancer GWAS Variants](https://thesis.cs.ut.ee/05f5f0da-4bb3-4c85-b32b-332d958e8c7c), Institute of Computer Science, University of Tartu, 2026 (co-supervised with [Jüri Reimand](https://reimandlab.org/))
 1. Dzvenymyra-Marta Yarish, [Predicting the molecular mechanisms of genetic variants](https://hdl.handle.net/10062/105106), Institute of Computer Science, University of Tartu, 2024
 1. Peep Kolberg, [Ekspressiooni kvantitatiivsete tunnuste lookuste analüüs üksikraku RNA sekveneerimisandmetes](https://comserv.cs.ut.ee/ati_thesis/datasheet.php?id=77601), Institute of Computer Science, University of Tartu, 2023
 1. Kristiina Kuningas, [Estimating Concordance Between Measured and Predicted Genetic Variant Effects on Chromatin Accessibility](https://comserv.cs.ut.ee/ati_thesis/datasheet.php?id=77613&language=en), Institute of Computer Science, University of Tartu, 2023 
