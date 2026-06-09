@@ -14,6 +14,8 @@ Our main research interest is developing better analytical approaches and harmon
 Our primary motivation is to envision novel applications and use cases that become feasible when harmonised data from hundreds of datasets and various data modalities can be integrated into one seamless analysis. The genetic variants shared across multiple populations provide the necessary _coordinate system_ to enable that.
 
 ### In media
+* [Tartu teadlased selgitasid välja geenide mõju ainevahetusele](https://novaator.err.ee/1610035336/tartu-teadlased-selgitasid-valja-geenide-moju-ainevahetusele) (26.05.2026)
+* [Fakt teadust päevas: kas ravimite mõju on võimalik ennustada ilma kliinilist uuringut tegemata?](https://www.ohtuleht.ee/1137273/fakt-teadust-paevas-kas-ravimite-moju-on-voimalik-ennustada-ilma-kliinilist-uuringut-tegemata) (15.08.2025)
 * [Miks uute ravimite arendamine võtab niivõrd kaua aega?](https://tervis.ohtuleht.ee/1062482/iga-haigust-ei-saa-veel-ravida-miks-uute-ravimite-arendamine-votab-niivord-kaua-aega) [(koopia)](https://blog.cs.ut.ee/2022/05/25/miks-uute-ravimite-arendamine-votab-niivord-kaua-aega/)
 * [Landmark genetics studies serve up new resources for gene expression research](https://researchinestonia.eu/2022/01/31/landmark-genetics-studies-serve-up-new-resources-for-gene-expression-research/#)
 * [Reshaping genetics: Estonian and British research team debuts new data resource](https://e-estonia.com/reshaping-genetics-estonian-and-british-research-team-debuts-new-data-resource/)
