@@ -7,13 +7,15 @@ Here is a selection of papers that we are the most proud of. The complete list o
 ## 2026
 1. **Ralf Tambets**, **Mihkel Jesse**, Jaanika Kronberg, Adriaan van der Graaf, Erik Abner, Urmo Võsa, **Ida Rahu**, Nele Taba, Anastassia Kolde, **Dzvenymyra Yarish**, **Sariyya Abdullayeva**, Anastasiia Alekseienko, Andres Veidenberg, Estonian Biobank Research Team, Krista Fischer, Zoltán Kutalik, Tõnu Esko\*, **Kaur Alasoo\***, Priit Palta\* "[Genetic analysis of circulating metabolic traits in 619,372 individuals.](https://doi.org/10.1038/s41586-026-10532-5)" Nature (2026): 1-8.
 
+1. **Mihkel Jesse**, Ago-Erik Riet, and **Kaur Alasoo**. "[Ultra-fast genetic colocalisation across millions of association signals.](https://doi.org/10.1371/journal.pgen.1012209)" PLoS Genetics (2026).
+
 
 ## 2025
 1. **Krista Freimann**, Anneke Brümmer, Robert Warmerdam, Tarran S. Rupall, Ana Laura Hernández-Ledesma, Joshua Chiou, Emily R. Holzinger, Joseph C. Maranville, Nikolina Nakic, Halit Ongen, Luca Stefanucci, Michael C. Turchin, eQTLGen Consortium, Lude Franke, Urmo Võsa, Carla P Jones, Alejandra Medina-Rivera, Gosia Trynka, Kai Kisand, Sven Bergmann, **Kaur Alasoo**. "[Trans-eQTL mapping prioritises USP18 as a negative regulator of interferon response at a lupus risk locus.](https://doi.org/10.1038/s41467-025-63856-7)" Nature Communications (2025).
 
 1. **Ida Rahu**, **Ralf Tambets**, Eric B. Fauman, and **Kaur Alasoo**. "[Mendelian randomisation with proxy exposures: challenges and opportunities.](https://doi.org/10.1093/genetics/iyaf210)" GENETICS (2025): 2024-10.
 
-1. **Mihkel Jesse**, Ago-Erik Riet, and **Kaur Alasoo**. "[Ultra-fast genetic colocalisation across millions of traits.](https://doi.org/10.1101/2025.08.25.672103)" bioRxiv (2025): 2025-08.
+
 
 ## 2024
 
