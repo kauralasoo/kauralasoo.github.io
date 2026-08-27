@@ -9,6 +9,8 @@ title: Currently teaching
 ## Supervised theses
 
 ### MSc theses
+1. Jaan Otter, [Development of a Scalable Automated Computational Framework for Genetic Colocalisation Analysis](https://thesis.cs.ut.ee/f9be075e-60d7-4d5a-8e18-3a7df460aaa3), Institute of Computer Science, University of Tartu, 2026
+1. Ashley Vanessa Williams, [Causal Inference for Metabolite-Associated Genes Across Disease Outcomes Using Cis-Mendelian Randomization](https://thesis.cs.ut.ee/bcb1f434-f197-484f-90bc-87f0ed5257ac), Institute of Computer Science, University of Tartu, 2026
 1. Andero Raava, [Using Genomic Foundation Models to Interpret Functional Effects of Cancer GWAS Variants](https://thesis.cs.ut.ee/05f5f0da-4bb3-4c85-b32b-332d958e8c7c), Institute of Computer Science, University of Tartu, 2026 (co-supervised with [Jüri Reimand](https://reimandlab.org/))
 1. Dzvenymyra-Marta Yarish, [Predicting the molecular mechanisms of genetic variants](https://hdl.handle.net/10062/105106), Institute of Computer Science, University of Tartu, 2024
 1. Peep Kolberg, [Ekspressiooni kvantitatiivsete tunnuste lookuste analüüs üksikraku RNA sekveneerimisandmetes](https://comserv.cs.ut.ee/ati_thesis/datasheet.php?id=77601), Institute of Computer Science, University of Tartu, 2023
